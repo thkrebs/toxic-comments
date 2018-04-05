@@ -1,6 +1,6 @@
 # Notebooks related to the Kaggle competition "Toxic Comments"
 
-This project holds four notebooks which are related to the Kaggle Competition [https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge]
+This project holds four notebooks which are related to the Kaggle Competition https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
 *Please note: *
 
@@ -8,9 +8,9 @@ This project holds four notebooks which are related to the Kaggle Competition [h
 2. the kernels contained herein did not participate in the competition. Their purpose was to learn how to deal with this kind of problem
 
 
-Fast Text embedding can be found here: [https://github.com/facebookresearch/fastText/blob/master/docs/english-vectors.md]
-Glove embedding can be downloaded from here [https://nlp.stanford.edu/projects/glove/]
-Translated files: [https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/48038#272289]
+Fast Text embedding can be found here: https://github.com/facebookresearch/fastText/blob/master/docs/english-vectors.md
+Glove embedding can be downloaded from here https://nlp.stanford.edu/projects/glove/
+Translated files: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/48038#272289
 
 The repository holds the following notebook:
 
